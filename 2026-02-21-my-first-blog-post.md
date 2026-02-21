@@ -1,11 +1,18 @@
 ---
-layout: post
-title:  "My First Blog Post"
-date:   2026-02-21
-categories: jekyll update
+title: "My First Blog Post"
+date: 2026-02-21
 ---
 
-Hello world!  
-This is my first post on my GitHub Pages blog.
+Hello world! 🌍
 
-Excited to share more soon.
+Today I learned how to create a website using **GitHub Pages** as part of GitHub Skills.
+
+It was super easy once I got the steps right:
+- Enabled Pages on the main branch
+- Customized index.md
+- Added a _config.yml (if you did that step)
+- And now writing my first real post!
+
+More updates coming soon. 🚀
+
+Thanks for reading!
